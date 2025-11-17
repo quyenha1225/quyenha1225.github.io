@@ -1,0 +1,10 @@
+{
+  "mongo_uri": "mongodb://localhost:27017",
+  "database": "ThuVienDB",
+  "sql_server": {
+    "driver": "{ODBC Driver 17 for SQL Server}",
+    "server": "(localdb)\\MSSQLLocalDB",
+    "database": "ThuVienDB",
+    "trusted_connection": true
+  }
+}

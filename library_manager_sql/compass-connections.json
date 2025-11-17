@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "9e2d2d49-dba3-40c3-94cc-820b1ef4ce9a",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1763171303849"
+        }
+      },
+      "favorite": {
+        "name": "QuyenHa",
+        "color": "color6"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
